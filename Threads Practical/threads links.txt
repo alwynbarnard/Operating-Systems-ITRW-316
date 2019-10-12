@@ -1,0 +1,11 @@
+https://jj09.net/multithreading-csharp-vs-java/
+http://www.javacamp.org/javavscsharp/thread.html
+http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html
+http://www.java2s.com/Tutorial/Java/0240__Swing/HowtoUseGridLayout.htm
+https://www3.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html
+
+https://www.infoworld.com/article/3035134/how-to-work-with-threads-in-c.html
+https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading
+https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread?view=netframework-4.7.2
+https://www.geeksforgeeks.org/how-to-schedule-a-thread-for-execution-in-c-sharp/
+https://www.infoworld.com/article/3063560/building-your-own-task-scheduler-in-c.html

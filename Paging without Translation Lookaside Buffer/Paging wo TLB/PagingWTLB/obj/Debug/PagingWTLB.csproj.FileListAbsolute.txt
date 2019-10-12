@@ -1,0 +1,20 @@
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\bin\Debug\PagingWTLB.exe.config
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\bin\Debug\PagingWTLB.exe
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\bin\Debug\PagingWTLB.pdb
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.csprojAssemblyReference.cache
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.Form1.resources
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.Properties.Resources.resources
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.csproj.GenerateResource.cache
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.csproj.CoreCompileInputs.cache
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.exe
+C:\Users\ALWYN\Downloads\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.pdb
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\bin\Debug\PagingWTLB.exe.config
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\bin\Debug\PagingWTLB.exe
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\bin\Debug\PagingWTLB.pdb
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.csprojAssemblyReference.cache
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.Form1.resources
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.Properties.Resources.resources
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.csproj.GenerateResource.cache
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.csproj.CoreCompileInputs.cache
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.exe
+F:\ITRW 316\Practicals\Paging with TLB Report\PagingWTLB\PagingWTLB\obj\Debug\PagingWTLB.pdb

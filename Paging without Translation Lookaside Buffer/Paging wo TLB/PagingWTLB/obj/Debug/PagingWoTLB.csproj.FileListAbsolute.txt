@@ -1,0 +1,10 @@
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWoTLB.csprojAssemblyReference.cache
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWTLB.Form1.resources
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWoTLB.Properties.Resources.resources
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWoTLB.csproj.GenerateResource.cache
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWoTLB.csproj.CoreCompileInputs.cache
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\bin\Debug\PagingWoTLB.exe.config
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\bin\Debug\PagingWoTLB.exe
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\bin\Debug\PagingWoTLB.pdb
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWoTLB.exe
+F:\ITRW 316\Practicals\Klaswerk - Paging wo TLB\Paging wo TLB\PagingWTLB\obj\Debug\PagingWoTLB.pdb
